@@ -12,9 +12,8 @@ const Mario = () => {
         height={413}
       />
       <h1 className={styles.title}>
-        G'day! I'm Mario, a microfrontend.
+        G'day! I'm Mario
       </h1>
-      <span>I'm hosted at <a target="_blank" href="https://mf-micro-front-end-activate.vercel.app">https://mf-micro-front-end-activate.vercel.app</a></span>
     </main>
   )
 }
